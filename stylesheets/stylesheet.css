@@ -57,7 +57,7 @@ a {
   color: #005;
   text-align: center;
   background-color: #f00;
-  background-image: url(/images/scorpio.jpg); }
+  background-image: url(images/flowers.jpg); }
 /*edited the background image*/
 @media screen and (min-width: 64em) {
   .page-header {
