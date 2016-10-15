@@ -52,12 +52,12 @@ a {
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
-/*changed the color and the backgroun-color*/
+/*changed the color and the background-color*/
 .page-header {
-  color: #000;
+  color: #005;
   text-align: center;
-  background-color: #f90;
-  background-image: url(http://www.redrobinpa.com/wp-content/uploads/2013/08/Burger-Patty.jpg); }
+  background-color: #f00;
+  background-image: url(images/scorpio.jpg); }
 /*edited the background image*/
 @media screen and (min-width: 64em) {
   .page-header {
